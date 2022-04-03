@@ -2,13 +2,13 @@
 # avatar
 avatar: /avatar/Misaka.jpg
 # author name
-author: fi3ework
+author: Han壮壮
 # signature
 signature: witness me
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: hanjinagtao-pub@qq.com
+  github: https://github.com/Han-Jiangtao
   # wechat should be a path of qr-code image path
   wechat: /assets/example_qr.png
   # qq should be a path of qr-code image path
@@ -62,14 +62,14 @@ profile_links:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: Han壮壮
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: Han壮壮's Blog
 # subtitle
 subtitle: it's better to burn out than to fade away
 # site haeder image
