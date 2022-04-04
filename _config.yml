@@ -10,7 +10,7 @@ social:
   email: hanjinagtao-pub@qq.com
   github: https://github.com/Han-Jiangtao
   # wechat should be a path of qr-code image path
-  wechat: /assets/example_qr.png
+  wechat: 
   # qq should be a path of qr-code image path
   qq: 
   telegram: 
