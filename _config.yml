@@ -69,9 +69,9 @@ SEO_keywords:
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: Han壮壮's Blog
+main_title: Han壮壮的博客
 # subtitle
-subtitle: 不愤不启，不悱不发。一隅不以三隅反，则不复也。
+subtitle: 不愤不启，不悱不发。</br>一隅不以三隅反，则不复也。
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
